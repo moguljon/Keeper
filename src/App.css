@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card-container {
+  border: 1px solid red;
+  padding: 3rem;
+  background-color: rgb(196, 194, 194);
+  text-align: center;
+  max-width: 112rem;
+}
+
+.header-one {
+  margin-bottom: 3rem;
+}

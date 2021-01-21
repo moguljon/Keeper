@@ -1,0 +1,18 @@
+.main {
+    background-color:#e0e0e0;
+    padding: 6rem 0 0 2rem;
+    min-height: 33.7rem;
+}
+
+.note-container {
+    background-color: #fff;
+    display: inline-block;
+    padding: 1.5rem;
+    border-radius: .7rem;
+    box-shadow: 0 4.5rem 4rem rgba(51,51,51,.25);  
+}
+
+.displaying {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
